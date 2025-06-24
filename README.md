@@ -1,6 +1,4 @@
-# I need a simple summary of the attached cloudformation template clarifying what the stack is and what it is good for in purpose. keep it brief and professional
-
-This CloudFormation template provisions foundational AWS infrastructure suitable for basic web application hosting and development environments. It creates the following key resources:
+## This CloudFormation template provisions foundational AWS infrastructure suitable for basic web application hosting and development environments. It creates the following key resources:
 
 - A Virtual Private Cloud (VPC) with public and private subnets across two Availability Zones, enabling high availability and network segmentation.
 - An Internet Gateway, route tables, and associations to allow internet access for public subnets while keeping private subnets isolated.
